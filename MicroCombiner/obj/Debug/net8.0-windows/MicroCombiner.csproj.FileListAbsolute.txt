@@ -1,0 +1,16 @@
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\bin\Debug\net8.0-windows\MicroCombiner.exe
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\bin\Debug\net8.0-windows\MicroCombiner.deps.json
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\bin\Debug\net8.0-windows\MicroCombiner.runtimeconfig.json
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\bin\Debug\net8.0-windows\MicroCombiner.dll
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\bin\Debug\net8.0-windows\MicroCombiner.pdb
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.Form1.resources
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.csproj.GenerateResource.cache
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.AssemblyInfoInputs.cache
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.AssemblyInfo.cs
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.csproj.CoreCompileInputs.cache
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.dll
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\refint\MicroCombiner.dll
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.pdb
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.genruntimeconfig.cache
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\ref\MicroCombiner.dll

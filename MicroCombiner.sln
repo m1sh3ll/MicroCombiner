@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroCombiner", "MicroCombiner\MicroCombiner.csproj", "{721E4008-FC98-4441-884D-D74023D1D9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{721E4008-FC98-4441-884D-D74023D1D9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721E4008-FC98-4441-884D-D74023D1D9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721E4008-FC98-4441-884D-D74023D1D9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721E4008-FC98-4441-884D-D74023D1D9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2979CF74-DCD8-4FCD-8E5E-BE05419A159A}
+	EndGlobalSection
+EndGlobal

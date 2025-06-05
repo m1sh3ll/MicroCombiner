@@ -1,0 +1,5 @@
+E:\Dropbox\_________Micro-Apps\MicroCombiner\publish\MicroCombiner.exe
+E:\Dropbox\_________Micro-Apps\MicroCombiner\publish\MicroCombiner.dll
+E:\Dropbox\_________Micro-Apps\MicroCombiner\publish\MicroCombiner.deps.json
+E:\Dropbox\_________Micro-Apps\MicroCombiner\publish\MicroCombiner.runtimeconfig.json
+E:\Dropbox\_________Micro-Apps\MicroCombiner\publish\MicroCombiner.pdb
