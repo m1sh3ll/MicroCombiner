@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroCombiner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55b388ac1852640dacf60676775ad639fdf9f76f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroCombiner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroCombiner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
