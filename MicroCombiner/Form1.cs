@@ -33,28 +33,37 @@ namespace MicroCombiner
         MessageBox.Show("No .txt files found.", "RtClickCombine");
         return;
       }
-
+      string binderFile = "Binder.xls";
       string outputDir = Path.GetDirectoryName(txtFiles[0]);
-      string outputFile = Path.Combine(outputDir, "Binder.xls");
 
-      //try
-      //{
-      //  using (StreamWriter writer = new StreamWriter(outputFile))
-      //  {
-      //    foreach (string file in txtFiles)
-      //    {
-      //      //writer.WriteLine($"----- {Path.GetFileName(file)} -----");
-      //      writer.Write(File.ReadAllText(file));
-      //      //writer.WriteLine();
-      //    }
-      //  }
+      if(txtFiles[0].Contains("AMAZON")){
+        binderFile = "Binder_AMAZON.xls";
+      }
+      else if (txtFiles[0].Contains("SHOPIFY"))
+      {
+        binderFile = "Binder_SHOPIFY.xls";
+      }
+      else if (txtFiles[0].Contains("EBAY"))
+      {
+        binderFile = "Binder_EBAY.xls";
+      }
 
-      // // MessageBox.Show($"CombinedText.txt created in:\n{outputDir}", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-      //}
-      //catch (Exception ex)
-      //{
-      //  MessageBox.Show("Error:\n" + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-      //}
+      //string outputFile = Path.Combine(outputDir, binderFile);
+      
+
+      string baseName = Path.GetFileNameWithoutExtension(txtFiles[0]);
+      string[] parts = baseName.Split('-');
+
+      string outputName;
+
+      if (parts.Length >= 2)
+        outputName = $"{parts[0]}-{parts[1]}-{binderFile}";
+      else
+        outputName = $"{baseName}-{binderFile}";
+
+      string outputFile = Path.Combine(outputDir, outputName);
+
+
       try
       {
         HashSet<string> uniqueLines = new HashSet<string>();

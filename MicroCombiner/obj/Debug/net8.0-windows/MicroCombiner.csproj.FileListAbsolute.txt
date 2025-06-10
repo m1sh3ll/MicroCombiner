@@ -14,3 +14,4 @@ E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-wind
 E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.pdb
 E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.genruntimeconfig.cache
 E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\ref\MicroCombiner.dll
+E:\Dropbox\_________Micro-Apps\MicroCombiner\MicroCombiner\obj\Debug\net8.0-windows\MicroCombiner.sourcelink.json
