@@ -36,12 +36,6 @@ MicroCombiner was created as a portfolio project to explore desktop application 
 
 The goal was to build a simple utility that helps streamline repetitive file-processing tasks through an intuitive drag-and-drop experience.
 
-## Screenshots
-
-### Main Window
-
-(Add Screenshot Here)
-
 ### Processing Example
 
 (Add Screenshot Here)
