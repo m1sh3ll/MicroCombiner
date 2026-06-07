@@ -1,43 +1,63 @@
 # MicroCombiner
 
-MicroCombiner is a C# desktop utility designed to help process and combine content files more efficiently. It was built as a portfolio project to demonstrate desktop application development, file handling, user interface design, and practical workflow automation using .NET.
+MicroCombiner is a C# Windows Forms application designed to simplify file-based workflows through a lightweight drag-and-drop interface.
+
+The application allows users to drop files directly onto the window and process them into a combined output, helping reduce repetitive manual work and improve productivity.
 
 ## Features
 
-* Select and process local files through a desktop interface
-* Combine content into a cleaner output format
-* Support for organizing file-based workflows
-* Simple drag and drop user interface
-* Designed for business, ecommerce, and content-processing tasks
+* Drag-and-drop file processing
+* Combine content from multiple files
+* Simple Windows desktop interface
+* Batch workflow support
+* Fast and lightweight application design
 
-## Tech Stack
+## Technologies Used
 
 * C#
 * .NET
+* Windows Forms (WinForms)
 * Visual Studio
 * Git / GitHub
 
 ## Skills Demonstrated
 
-* Desktop application development
-* File and folder processing
-* Form layout and event handling
-* Basic workflow automation
-* Clean project organization
-* Practical problem solving with C#
+* Windows Forms Development
+* File Handling
+* Drag-and-Drop Functionality
+* Event-Driven Programming
+* Desktop Application Development
+* Workflow Automation
+* Git Version Control
 
 ## Project Purpose
 
-This project was created to demonstrate how C# desktop applications can be used to reduce repetitive manual work. It reflects my interest in building internal tools, ecommerce utilities, and business-focused applications.
+MicroCombiner was created as a portfolio project to explore desktop application development and practical workflow automation using C# and .NET.
 
-## Future Improvements
+The goal was to build a simple utility that helps streamline repetitive file-processing tasks through an intuitive drag-and-drop experience.
 
-* Add more file type support
-* Improve error handling and validation
-* Add settings persistence
-* Add export options
-* Improve UI styling and accessibility
+## Screenshots
+
+### Main Window
+
+(Add Screenshot Here)
+
+### Processing Example
+
+(Add Screenshot Here)
+
+### Output Example
+
+(Add Screenshot Here)
+
+## Future Enhancements
+
+* Additional file format support
+* User-configurable settings
+* Enhanced validation and error handling
+* Export options
+* Improved UI design
 
 ## Status
 
-Portfolio project in progress.
+Active portfolio project.
