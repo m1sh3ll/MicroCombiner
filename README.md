@@ -1,36 +1,45 @@
 # MicroCombiner
 
-MicroCombiner is a portfolio project built with C#, WPF, and .NET. Designed to combine and process content files through a desktop interface. I used to practice building a small utility application and organizing code around a focused workflow.
+MicroCombiner is a C# WPF desktop utility designed to help process and combine content files more efficiently. It was built as a portfolio project to demonstrate desktop application development, file handling, user interface design, and practical workflow automation using .NET.
 
-This project is part of my learning history and is not presented as professional client or employer work.
+## Features
 
-## Purpose
+* Select and process local files through a desktop interface
+* Combine content into a cleaner output format
+* Support for organizing file-based workflows
+* Simple WPF user interface
+* Designed for business, ecommerce, and content-processing tasks
 
-The goal of this project was to explore how to build a practical tool with AI assistance while improving my understanding of application structure, debugging, and feature development.
+## Tech Stack
 
-## What I Practiced
+* C#
+* .NET
+* WPF
+* XAML
+* Visual Studio
+* Git / GitHub
 
-- Building a small utility-style application
-- Using AI assistance for scaffolding, examples, and debugging guidance
-- Reading, modifying, and testing generated code
-- Organizing files and project logic
-- Working with user input and generated output
-- Using Git/GitHub to track development progress
+## Skills Demonstrated
 
-I reviewed and modified the project as part of the learning process rather than presenting it as fully original professional work.
+* Desktop application development
+* File and folder processing
+* WPF layout and event handling
+* Basic workflow automation
+* Clean project organization
+* Practical problem solving with C#
 
-## What I Learned
+## Project Purpose
 
-Through this project, I practiced turning an idea into a working application, testing small features, and understanding how code can be structured more clearly over time.
+This project was created to demonstrate how C# desktop applications can be used to reduce repetitive manual work. It reflects my interest in building internal tools, ecommerce utilities, and business-focused applications.
 
-This project also helped me learn how to use AI responsibly as a coding assistant while continuing to build my own understanding of C#/.NET development.
+## Future Improvements
 
-Development Notes
+* Add more file type support
+* Improve error handling and validation
+* Add settings persistence
+* Add export options
+* Improve UI styling and accessibility
 
-AI tools were occasionally used for research, debugging, and learning, similar to how developers use documentation, Stack Overflow, and online resources.
+## Status
 
-AI-assisted learning project.
-
-## Notes
-
-This repository is kept public as part of my coding journey and learning record while I continue building more polished C#/.NET, ecommerce, and internal-tools portfolio projects.
+Portfolio project in progress.
