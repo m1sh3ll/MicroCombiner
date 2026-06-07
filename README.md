@@ -7,7 +7,7 @@ MicroCombiner is a C# desktop utility designed to help process and combine conte
 * Select and process local files through a desktop interface
 * Combine content into a cleaner output format
 * Support for organizing file-based workflows
-* Simple WPF user interface
+* Simple drag and drop user interface
 * Designed for business, ecommerce, and content-processing tasks
 
 ## Tech Stack
