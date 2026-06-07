@@ -1,6 +1,6 @@
 # MicroCombiner
 
-MicroCombiner is an AI-assisted learning project I used to practice building a small utility application and organizing code around a focused workflow.
+MicroCombiner is an Udemy learning project I used to practice building a small utility application and organizing code around a focused workflow.
 
 This project is part of my learning history and is not presented as professional client or employer work.
 
