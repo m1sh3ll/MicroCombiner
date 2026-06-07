@@ -1,6 +1,6 @@
 # MicroCombiner
 
-MicroCombiner is a C# WPF desktop utility designed to help process and combine content files more efficiently. It was built as a portfolio project to demonstrate desktop application development, file handling, user interface design, and practical workflow automation using .NET.
+MicroCombiner is a C# desktop utility designed to help process and combine content files more efficiently. It was built as a portfolio project to demonstrate desktop application development, file handling, user interface design, and practical workflow automation using .NET.
 
 ## Features
 
@@ -14,8 +14,6 @@ MicroCombiner is a C# WPF desktop utility designed to help process and combine c
 
 * C#
 * .NET
-* WPF
-* XAML
 * Visual Studio
 * Git / GitHub
 
@@ -23,7 +21,7 @@ MicroCombiner is a C# WPF desktop utility designed to help process and combine c
 
 * Desktop application development
 * File and folder processing
-* WPF layout and event handling
+* Form layout and event handling
 * Basic workflow automation
 * Clean project organization
 * Practical problem solving with C#
