@@ -1,79 +1,91 @@
 ﻿# Visual Studio
+
 .vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Build Results
+# Build Folders
+
+[Bb]in/
+[Oo]bj/
 [Dd]ebug/
 [Rr]elease/
 x64/
 x86/
-[Bb]in/
-[Oo]bj/
 
-# Publish
+# Publish Output
+
 publish/
 Publish/
 app.publish/
+
+# Publish Profiles
+
 *.pubxml.user
 
 # Visual Studio Code
+
 .vscode/
 
 # Rider
+
 .idea/
 
-# NuGet
+# NuGet Packages
+
 packages/
-!packages/build/
 *.nupkg
 
 # Logs
+
 *.log
 
-# Windows
-Thumbs.db
-Desktop.ini
-
 # Temporary Files
+
 *.tmp
 *.temp
 
+# Windows
+
+Thumbs.db
+Desktop.ini
+
 # Test Results
+
 TestResults/
 
-# ClickOnce
-publish.htm
-
-# DotCover
-*.dotCover
-
 # ReSharper
+
 _ReSharper*/
 *.ReSharper
 
-# Azure
-PublishProfiles/
+# DotCover
+
+*.dotCover
+
+# Local Development Settings
+
+appsettings.Development.json
+
+# SQLite Databases (optional)
+
+*.db
+*.sqlite
 
 # Backup Files
+
 *.bak
 *.backup
 
 # Generated Files
+
 Generated_Code/
-
-# Image Cache
-.cache/
-
-# Local Settings
-appsettings.Development.json
-
-# SQLite Databases (optional)
-*.db
-*.sqlite
-
-# Zip Files (optional)
-*.zip
+.vs/
+[Bb]in/
+[Oo]bj/
+publish/
+*.user
+*.pubxml.user
 vs
