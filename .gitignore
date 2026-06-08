@@ -1,0 +1,91 @@
+﻿# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Publish Output
+
+publish/
+Publish/
+app.publish/
+
+# Publish Profiles
+
+*.pubxml.user
+
+# Visual Studio Code
+
+.vscode/
+
+# Rider
+
+.idea/
+
+# NuGet Packages
+
+packages/
+*.nupkg
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Test Results
+
+TestResults/
+
+# ReSharper
+
+_ReSharper*/
+*.ReSharper
+
+# DotCover
+
+*.dotCover
+
+# Local Development Settings
+
+appsettings.Development.json
+
+# SQLite Databases (optional)
+
+*.db
+*.sqlite
+
+# Backup Files
+
+*.bak
+*.backup
+
+# Generated Files
+
+Generated_Code/
+.vs/
+[Bb]in/
+[Oo]bj/
+publish/
+*.user
+*.pubxml.user
+vs
